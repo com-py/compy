@@ -1,0 +1,23 @@
+Chapter     Data file               Program  
+-------     ---------               -------      
+Ch 04       hd3651.txt              Program_4.4_rvfit.py
+Ch 04       rvdata.txt              Table 4.5, Project P4.6
+
+Ch 09       meshCircleL8.txt        Project P9.9
+Ch 09       meshHexagonN40.txt      Program_9.7_qmdot.py
+Ch 09       meshTriangleN20.txt     Exercise E9.12
+P7.7 wedge mesh?
+
+
+Ch S:09     data_DOC_Exercise_E9.8.zip
+            meshStadium_d3L8.txt    Exercise S:E9.8
+            meshStadium_d4L8.txt    Exercise S:E9.8
+            meshStadium_d5L8.txt    Exercise S:E9.8
+            
+Ch S:09     data_DOC_Figure_9.5.zip
+            eigenStadium_d0L8.dat   Program_S:9.1_nns.py
+            eigenStadium_d.5L8.dat  Program_S:9.1_nns.py
+            eigenStadium_d1L8.dat   Program_S:9.1_nns.py
+            eigenStadium_d1L8.dat   Program_S:9.1_nns.py
+
+
