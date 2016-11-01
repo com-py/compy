@@ -15,6 +15,6 @@ while True:
     ball.pos.x += vx*h                      # update position 
     ball.pos.y += vy*h     
     path.append(pos=ball.pos, retain=300)   # draw path, keep 300 pts 
-    if ball.pos.y > floor.y + ball.radius:  
+    if ball.pos.y > floor.pos.y + ball.radius:  
           vy = vy - g*h                     # above floor, update vy
     else: vx, vy = - vx, - vy               # below floor, reverse vel.
