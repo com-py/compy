@@ -14,7 +14,7 @@ v = 0.0             # initial velocity
 while True:         # loop forever
     vp.rate(400)    # limit animation rate to 400 loops/sec 
     ball.pos.y = ball.pos.y + v*h       # update y position 
-    if ball.pos.y > floor.y + ball.radius:  
+    if ball.pos.y > floor.pos.y + ball.radius:  
         v = v - 9.8*h       # above floor, update velocity  
     else:                               
         v = - v             # below floor, reverse velocity 
