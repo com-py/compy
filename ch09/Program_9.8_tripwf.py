@@ -22,4 +22,4 @@ for n in range(len(st)):
     plt.tripcolor(node[:,0], node[:,1], wf, shading='gouraud')
     plt.title(repr(st[n]+1)), plt.axis('off')
     
-plt.show(
+plt.show()
