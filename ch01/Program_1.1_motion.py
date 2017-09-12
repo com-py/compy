@@ -22,4 +22,4 @@ plt.figure()                    # start a figure; no indent->end of loop
 plt.plot(ta, xa, '-o')          # plot data
 plt.xlabel('t (s)')             # add labels
 plt.ylabel('x (m)')
-plt.show()                      # show figur
+plt.show()                      # show figure
