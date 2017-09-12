@@ -14,3 +14,4 @@
 # rcpara.py
 # rootfinder.py
 # vpm.py
+# vpmnb.py (for Jupyter vpython)
