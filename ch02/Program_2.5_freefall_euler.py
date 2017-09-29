@@ -38,4 +38,4 @@ def go(v0):                  # main program, v0=initial velocity
     plt.ylabel('y (m)')
     plt.show()                  # show figure
     
-go(5.0)                     # run the progra
+go(5.0)                     # run the program
