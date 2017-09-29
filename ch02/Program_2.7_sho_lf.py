@@ -29,4 +29,4 @@ def go():                   # main program
     plt.ylabel('v (m/s)')
     plt.show()              # show figure       
     
-go()                        # run the progra
+go()                        # run the program
