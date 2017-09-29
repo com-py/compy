@@ -14,4 +14,4 @@ def newton(f, df, x, eps=1.e-6):  # user-defined f(x),df/dx, init root
         fx = f(x)                       # prep for next round
         if (fx == 0.0 or abs(delta) < eps*gap): break     # root found 
 
-    return 
+    return x
