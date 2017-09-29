@@ -19,4 +19,4 @@ def RK4n(diffeq, y0, t, h):     # non-vectorized with lists
     k4 = diffeq(y1, t + h)               # dy/dt at t+h
     for i in range(n):              
         y1[i] = y0[i] + h*(k1[i]+2*k2[i]+2*k3[i]+k4[i])/6.0
-    return y
+    return y1
