@@ -52,4 +52,4 @@ while (E1 < 0):     # find E, calc and plot wave function
         if (j == 3 or j == 4): ax.set_xlabel('$x$')
         if (j<4): j += 1            # 4 plots max
     E1 += dE
-plt.show(
+plt.show()
