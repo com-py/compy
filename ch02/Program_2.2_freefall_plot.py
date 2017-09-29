@@ -22,4 +22,4 @@ plt.figure()                    # start a figure
 plt.plot(ta,ya, ta,yb,'--')     # draw 2nd curve as dashed
 plt.xlabel('t (s)')             # add labels
 plt.ylabel('y (m)')
-plt.show()                      # show figur
+plt.show()                      # show figure
