@@ -15,4 +15,4 @@ def update2d(N, spin, kT, E, M):    # 2D Ising model, N x N lattice
         E = E + dE
         M = M - 2*spin[i][j]
         spin[i][j] = -spin[i][j]
-    return E, 
+    return E, M
