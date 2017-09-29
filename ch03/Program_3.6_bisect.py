@@ -19,4 +19,4 @@ def bisect(f, a, b, eps=1.e-6):  # user-defined f(x) and bracket [a,b]
         else: b=xmid                # root in [a, xmid]
         if (fmid == 0.0 or abs(b-a) < eps*gap): break   # root found 
 
-    return xmi
+    return xmid
