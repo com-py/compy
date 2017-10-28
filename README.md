@@ -1,4 +1,5 @@
-#
+<img src="http://www.faculty.umassd.edu/j.wang/book/cover1.jpg" width="300px" align="left" border="0" alt="book cover">
+
 # Computational modeling and visualization with Python
 # GitHub project page. J Wang
 #
