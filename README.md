@@ -8,5 +8,5 @@
 - ## Sep. 2017: Updated input() function compatibility between Python 2.xx and 3.xx to affected programs (Original versions can be found in `v1.0` folder). To summarize, all codes (.py and .ipynb) should run under Python 2.7x and 3.xx as follows: 
   - ### .py codes not using VPython: will run in Jupyter (via `load prog_name`) and in a terminal
   - ### .py codes using classic VPython (`visual` installed): will run in Jupyter and in a terminal
-  - ### .ipynb codes using Jupyter vpython: will run in Jupyter only
-  - ### Computational physics forum:  https://groups.google.com/forum/#!forum/comphys
+  - ### .ipynb codes using Jupyter vpython: will run in Jupyter only 
+- ### Computational physics forum:  https://groups.google.com/forum/#!forum/comphys
