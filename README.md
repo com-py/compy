@@ -9,4 +9,4 @@
   - ### .py codes not using VPython: will run in Jupyter (via `load prog_name`) and in a terminal
   - ### .py codes using classic VPython (`visual` installed): will run in Jupyter and in a terminal
   - ### .ipynb codes using Jupyter vpython: will run in Jupyter only 
-- ### Computational physics forum:  https://groups.google.com/forum/#!forum/comphys
+- ### Computational modeling forum:  https://groups.google.com/forum/#!forum/comphys
