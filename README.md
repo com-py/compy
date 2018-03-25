@@ -12,4 +12,4 @@
 - ## Computational modeling forum:  https://groups.google.com/forum/#!forum/comphys
 - ## March 2018: Complete update of all .py programs to Jupyter notebook versions.
   - ### This includes all non-VPython programs and revisons to some Jupyter VPython program, so all programs can be run in dual mode: standard mode (`python program.py`) or in Jupyter notebook.
-  - ### Programs using `matplotlib` now utilize the `notebook` backend, enabling users to interactively manipulate plots such as zoom and save in nearly the same way as the standard .py versions run from a terminal. In addition, programs using `matplotlib` animation (Programs 8.1, 10.2, and 11.4) work correctly.
+  - ### Programs using `matplotlib` now utilize the `notebook` backend, enabling users to interactively manipulate plots such as zoom and save in nearly the same way as the standard .py versions run from a terminal. In addition, programs using `matplotlib` animation (Programs 8.1, 10.2, and 11.4) work correctly in Jupyter notebook.
