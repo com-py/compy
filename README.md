@@ -12,5 +12,6 @@
 - ## March 2018: Complete update of all .py programs to Jupyter notebook versions.
   - ### This includes all non-VPython programs and revisons to some Jupyter VPython program, so all programs can be run in dual mode: standard mode (`python program.py`) or in Jupyter notebook.
   - ### Programs using `matplotlib` now utilize the `notebook` backend, enabling users to interactively manipulate plots such as zoom and save in nearly the same way as the standard .py versions run from a terminal. In addition, programs using `matplotlib` animation (Programs 8.1, 10.2, and 11.4) work correctly in Jupyter notebook.
-  
+- ## Sep. 2018: Updated Program_12.2_qmscatt.py and Program_12.2_qmscatt.ipynb.
+  - ### This update fixes the compatibility in spherical Bessel functions between `SciPy` versions 0.x.x and 1.x.x. In version 1.x.x, the name is changed from `sph_jn/yn` to `spherical_jn/yn`, its signature is also different. With this fix, the program automatically detects the `SciPy` version and should work under either version.
 - ## Computational modeling forum:  https://groups.google.com/forum/#!forum/comphys  
