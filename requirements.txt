@@ -1,5 +1,6 @@
-matplotlib
-numpy
-sympy
-scipy
 ipympl
+matplotlib
+numba
+numpy
+scipy
+sympy
