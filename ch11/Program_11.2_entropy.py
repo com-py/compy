@@ -4,7 +4,7 @@
 #
 
 def entropy(cell):                      # entropy of Einstein solid
-    Et, E, nt, s = sum(cell), 0, 0, 0.
+    Et, E, n, s = sum(cell), 0, 0, 0.
     while E < Et:                       # until all cells are counted
         cn  = cell.count(n)             # num. of cells with En 
         n, E = n + 1, E + cn*n          # increase energy, cumul. energy
