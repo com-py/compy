@@ -4,10 +4,10 @@
 #
 
 def entropy(cell):                      # entropy of Einstein solid
-    N, n, nt, s = len(cell), 0, 0, 0.
-    while nt < N:                       # until all cells are counted
+    Et, E, nt, s = sum(cell), 0, 0, 0.
+    while E < Et:                       # until all cells are counted
         cn  = cell.count(n)             # num. of cells with En 
-        n, nt = n + 1, nt + cn          # increase energy, cumul. cells
+        n, E = n + 1, E + cn*n          # increase energy, cumul. energy
         p = cn/float(N)                 # probability
         if (cn != 0): s -= p*np.log(p)  # entropy/k, 
     return s
