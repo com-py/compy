@@ -1,6 +1,6 @@
 <img src="https://jwang.sites.umassd.edu/files/2021/03/cover1.jpg" width="300px" align="left" border="0" alt="book cover">
 
-# Computational modeling and visualization with Python
+# Computational modeling and visualization with Python  (<a href="https://www.wiley.com/en-us/Computational+Modeling+and+Visualization+of+Physical+Systems+with+Python-p-9781119179184">Wiley, 2016</a>)
 # GitHub project page. J Wang
 #
 ## The latest source programs, library and data files for the book are deposited here and at https://jwang.sites.umassd.edu/
