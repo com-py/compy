@@ -17,5 +17,5 @@ Non-VPython programs are unaffected.
 For more information on how to get started, see:
 http://vpython.org/
 
-Latest update: 
-http://www.faculty.umassd.edu/j.wang/book/install/install.htm
+Latest status: 
+https://jwang.sites.umassd.edu/
