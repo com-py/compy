@@ -5,7 +5,7 @@ are intended to run with vpython under Jupyter notebook in Anaconda or Canopy.
 Install vpython for the programs to work.
 The programs include the new library vpmnb.py, in place of vpm.py.
 Other library modules are here, as well as at
-http://www.faculty.umassd.edu/j.wang/book
+https://jwang.sites.umassd.edu/
 
 
 From a user's perspective, generally two changes are made:
